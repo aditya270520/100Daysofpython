@@ -1,3 +1,3 @@
-num = 19
-for i in range(1000):
+num = 25
+for i in range(1,1001):
    print(num, 'x', i, '=', num*i)
